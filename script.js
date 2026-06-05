@@ -183,6 +183,7 @@ function init() {
 
 // Render dynamic language filtering tags
 function renderLanguages() {
+    tagsContainer.innerHTML = '<button class="filter-tag active" data-lang="all">All</button>';
     const languages = new Set();
     repositories.forEach(repo => {
         if (repo.language) {
@@ -336,4 +337,3 @@ function setupCardGlowEffect() {
 
 // Run initial execution
 document.addEventListener("DOMContentLoaded", init);
-init();
