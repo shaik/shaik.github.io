@@ -1,6 +1,6 @@
 # shaik.github.io
 
-This repository contains the root page for Shai Kfir's (`@shaik`) GitHub Pages address: [shaik.github.io](https://shaik.github.io).
+This repository contains the root page for Shai Kfir's (`@shaik`) personal site: [shaikfir.com](https://shaikfir.com) (also reachable via [shaik.github.io](https://shaik.github.io), which redirects there).
 
 It serves as a clean, high-performance, and responsive hub to discover and launch various web apps, pages, and projects.
 

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-This is the root GitHub Pages site for the **personal** GitHub account (`@shaik`, shai.kfir@gmail.com), deployed at https://shaik.github.io. It's a single-page portfolio/directory hub linking to other live projects. Pushing to `main` deploys directly via GitHub Pages — there is no build step, bundler, linter, or test suite.
+This is the root GitHub Pages site for the **personal** GitHub account (`@shaik`, shai.kfir@gmail.com), deployed at https://shaikfir.com (custom domain via the `CNAME` file; `shaik.github.io` 301-redirects there). DNS is managed on Cloudflare. It's a single-page portfolio/directory hub linking to other live projects. Pushing to `main` deploys directly via GitHub Pages — there is no build step, bundler, linter, or test suite.
 
 **GitHub account:** Use the personal account (`@shaik`), not the work account. Switch with `~/projects/switch-github-account.sh` if needed.
 
